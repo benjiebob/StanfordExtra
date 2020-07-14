@@ -20,7 +20,7 @@ You may also find the other datasets useful for your animal work:
 
 ## Acknowledgements
 
-If you make sure use of this dataset, please cite the following paper:
+If you make sure use of this annotation dataset, please cite the following paper:
 
 ```
 @inproceedings{biggs2020wldo,
@@ -31,7 +31,7 @@ If you make sure use of this dataset, please cite the following paper:
 }
 ```
 
-and the original [Stanford Dog Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) from which this is derived:
+and the [Stanford Dog Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) from which this is derived:
 
 ```
 @inproceedings{KhoslaYaoJayadevaprakashFeiFei_FGVC2011,
