@@ -31,7 +31,7 @@ If you make sure use of this dataset, please cite the following paper:
 }
 ```
 
-and the original image set from which this is derived:
+and the original [Stanford Dog Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) from which this is derived:
 
 ```
 @inproceedings{KhoslaYaoJayadevaprakashFeiFei_FGVC2011,
