@@ -1,0 +1,25 @@
+Index,Name,Hex colour,Stanford,Animal-pose,(name in animal pose)
+0,Left front leg: paw,d82400,y,y,L_F_Paw
+1,Left front leg: middle joint,d82400,y,y,L_F_Knee
+2,Left front leg: top,d82400,y,y,L_F_Elbow
+3,Left rear leg: paw,fcfc00,y,y,L_B_Paw
+4,Left rear leg: middle joint,fcfc00,y,y,L_B_Knee
+5,Left rear leg: top,fcfc00,y,y,L_B_Elbow
+6,Right front leg: paw,48b455,y,y,R_F_Paw
+7,Right front leg: middle joint,48b455,y,y,R_F_Knee
+8,Right front leg: top,48b455,y,y,R_F_Elbow
+9,Right rear leg: paw,0090aa,y,y,R_B_Paw
+10,Right rear leg: middle joint,0090aa,y,y,R_B_Knee
+11,Right rear leg: top,0090aa,y,y,R_B_Elbow
+12,Tail start,d848ff,y,y,TailBase
+13,Tail end,d848ff,y,n,
+14,Base of left ear,fc90aa,y,y,L_EarBase
+15,Base of right ear,006caa,y,y,R_EarBase
+16,Nose,d89000,y,y,Nose
+17,Chin,d89000,y,n,
+18,Left ear tip,fc90aa,y,n,
+19,Right ear tip,006caa,y,n,
+20,Left eye,ededed,n,y,L_Eye
+21,Right eye,ededed,n,y,R_Eye
+22,Withers,a9d08e,n,y,Withers
+23,Throat,a9d08e,n,y,Throat
