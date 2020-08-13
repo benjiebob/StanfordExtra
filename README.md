@@ -1,7 +1,8 @@
 # StanfordExtra
+12,000 keypoint and segmentation labelled instances of dogs in-the-wild.
 
-## Introduction
-Dataset of keypoints and segmentations for the Stanford Dogs dataset. 
+![](splash.png)
+
 
 ## Usage
 To understand how the dataset can be used, please read `demo.ipynb`.
@@ -13,11 +14,9 @@ To understand how the dataset can be used, please read `demo.ipynb`.
 
 `python -m pip install "git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI"`
 
-## Dataset
-Technical details
-
 ## Versioning
-- v1.0.0 [.../8/20] - Initial release for ECCV 2020
+- v beta [13/08/20] - Beta release, 11.3k instances
+- v 1.0.0 [TBD] - Initial release for ECCV 2020
 
 ## Comments
 You may also find the other datasets useful for your animal work:
