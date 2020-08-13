@@ -1,16 +1,23 @@
 # StanfordExtra
 
 ## Introduction
-Dataset of keypoints and silhouette segementations for the Stanford dataset 
+Dataset of keypoints and segmentations for the Stanford Dogs dataset. 
+
+## Usage
+To understand how the dataset can be used, please read `demo.ipynb`.
+
+## Installation
+- All annotations, segmentations and metadata are sourced in a single .json file for ease of download. However, you will also need to download the [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) dataset to access the raw images. 
+
+- For segmentation decoding, install `pycocotools`
+
+`python -m pip install "git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI"`
 
 ## Dataset
 Technical details
 
-## Demo
-Please access demo.ipynb to see some examples.
-
 ## Versioning
-- v1.0.0 - Dataset release
+- v1.0.0 [.../8/20] - Initial release for ECCV 2020
 
 ## Comments
 You may also find the other datasets useful for your animal work:
@@ -25,7 +32,7 @@ If you make sure use of this annotation dataset, please cite the following paper
 ```
 @inproceedings{biggs2020wldo,
   title={{W}ho left the dogs out: {3D} animal reconstruction with expectation maximization in the loop},
-  author={Biggs, Benjamin and Boyne, Ollie and Charles, James and Fitzgibbon, Andrew and Cipolla, Roberto},
+  author={Biggs, Benjamin and Boyne, Oliver and Charles, James and Fitzgibbon, Andrew and Cipolla, Roberto},
   booktitle={ECCV},
   year={2020}
 }
