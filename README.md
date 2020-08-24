@@ -13,8 +13,14 @@ To understand how the dataset can be used, please read `demo.ipynb`.
 
 `python -m pip install "git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI"`
 
+- The `demo.ipynb` code is trivial to adapt to work with the full StanfordExtra dataset, by editing the line
+
+```
+img_dir = "sample_imgs" # Edit this to <DOWNLOAD_PATH>/img
+```
+
 ## Download & Versioning
-The latest version is available for download within this repo. To view all released versions, view the [archive](https://drive.google.com/drive/folders/1MvN4hX2cdy0pMv0iUnL_UkobSYxZ0gzg?usp=sharing).
+The latest version of StanfordExtra is available for download within this repo. To view all released versions, view the [archive](https://drive.google.com/drive/folders/1MvN4hX2cdy0pMv0iUnL_UkobSYxZ0gzg?usp=sharing).
 
 - Version 1.0 [23/08/20] - Initial release for ECCV 2020, 12k instances
 - Version 0.1 [13/08/20] - Beta release, 11k instances
