@@ -64,7 +64,7 @@ and the [Stanford Dog Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/
 }
 ```
 
-# Licensing
+## Licensing
 
 Non-commercial use only. Please contact us if you wish to use this dataset for commercial purposes.
 Data is provided `As-is', we take no liability for any errors. 
