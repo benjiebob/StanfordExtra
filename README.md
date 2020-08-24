@@ -55,12 +55,12 @@ and the [Stanford Dog Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/
 
 ```
 @inproceedings{KhoslaYaoJayadevaprakashFeiFei_FGVC2011,
-author = "Aditya Khosla and Nityananda Jayadevaprakash and Bangpeng Yao and Li Fei-Fei",
-title = "Novel Dataset for Fine-Grained Image Categorization",
-booktitle = "First Workshop on Fine-Grained Visual Categorization, IEEE Conference on Computer Vision and Pattern Recognition",
-year = "2011",
-month = "June",
-address = "Colorado Springs, CO",
+  author = "Aditya Khosla and Nityananda Jayadevaprakash and Bangpeng Yao and Li Fei-Fei",
+  title = "Novel Dataset for Fine-Grained Image Categorization",
+  booktitle = "First Workshop on Fine-Grained Visual Categorization, IEEE Conference on Computer Vision and Pattern Recognition",
+  year = "2011",
+  month = "June",
+  address = "Colorado Springs, CO",
 }
 ```
 
