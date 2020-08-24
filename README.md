@@ -51,7 +51,7 @@ If you make sure use of this annotation dataset, please cite the following paper
 }
 ```
 
-and the [Stanford Dog Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) from which this is derived:
+and the [Stanford Dog Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) from which the images are derived:
 
 ```
 @inproceedings{KhoslaYaoJayadevaprakashFeiFei_FGVC2011,
