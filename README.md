@@ -1,5 +1,5 @@
 # StanfordExtra
-12,000 keypoint and segmentation labelled instances of dogs in-the-wild.
+12k keypoint and segmentation labelled instances of dogs in-the-wild.
 
 ![](splash.png)
 
@@ -16,7 +16,7 @@ To understand how the dataset can be used, please read `demo.ipynb`.
 - The `demo.ipynb` code is trivial to adapt to work with the full StanfordExtra dataset, by editing the line
 
 ```
-img_dir = "sample_imgs" # Edit this to <DOWNLOAD_PATH>/img
+img_dir = "sample_imgs" # Edit this to the location of the extracted tar file (e.g. /.../Images).
 ```
 
 ## Download & Versioning
@@ -56,4 +56,10 @@ month = "June",
 address = "Colorado Springs, CO",
 }
 ```
+
+# Licensing
+
+Non-commercial use only. Please contact us if you wish to use this dataset for commercial purposes.
+Data is provided `As-is', we take no liability for any errors. 
+
 
