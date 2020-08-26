@@ -36,7 +36,7 @@ You may also find the other datasets useful for your animal work:
 - [RGBD-Dog Dataset](https://github.com/CAMERA-Bath/RGBD-Dog)
 - [BADJA](https://github.com/benjiebob/BADJA)
 
-We are also delighted to hear about your animal related activities! Please do visit [Benjamin Biggs](http://www.biggs.ai) to get in touch.
+We are also delighted to hear about your animal related activities! Please do visit [Ben's webpage](http://www.biggs.ai) to get in touch.
 
 ## Acknowledgements
 
