@@ -34,11 +34,11 @@ You may also find the other datasets useful for your animal work:
 - [RGBD-Dog Dataset](https://github.com/CAMERA-Bath/RGBD-Dog)
 - [BADJA](https://github.com/benjiebob/BADJA)
 
-We are also delighted to hear about your animal related activities! Feel free to contact [Benjamin Biggs](www.biggs.ai).
+We are also delighted to hear about your animal related activities! Please do visit [Ben's webpage](http://www.biggs.ai) to get in touch.
 
 ## Acknowledgements
 
-If you make sure use of this annotation dataset, please cite the following paper:
+If you make use of this annotation dataset, please cite the following paper:
 
 ```
 @inproceedings{biggs2020wldo,
@@ -49,22 +49,23 @@ If you make sure use of this annotation dataset, please cite the following paper
 }
 ```
 
-and the [Stanford Dog Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) from which this is derived:
+and the [Stanford Dog Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) from which the images are derived:
 
 ```
 @inproceedings{KhoslaYaoJayadevaprakashFeiFei_FGVC2011,
-author = "Aditya Khosla and Nityananda Jayadevaprakash and Bangpeng Yao and Li Fei-Fei",
-title = "Novel Dataset for Fine-Grained Image Categorization",
-booktitle = "First Workshop on Fine-Grained Visual Categorization, IEEE Conference on Computer Vision and Pattern Recognition",
-year = "2011",
-month = "June",
-address = "Colorado Springs, CO",
+  author = "Aditya Khosla and Nityananda Jayadevaprakash and Bangpeng Yao and Li Fei-Fei",
+  title = "Novel Dataset for Fine-Grained Image Categorization",
+  booktitle = "First Workshop on Fine-Grained Visual Categorization, IEEE Conference on Computer Vision and Pattern Recognition",
+  year = "2011",
+  month = "June",
+  address = "Colorado Springs, CO",
 }
 ```
 
-# Licensing
+## Licensing
+(c) Benjamin Biggs, Oliver Boyne, James Charles, Andrew Fitzgibbon and Roberto Cipolla. Department of Engineering, University of Cambridge 2020
 
-Non-commercial use only. Please contact us if you wish to use this dataset for commercial purposes.
-Data is provided `As-is', we take no liability for any errors. 
+By downloading this dataset, you agree to the [Creative Commons Attribution-NonCommercial 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/). This license allows users to use, share and adapt the dataset, so long as credit is given to the authors (e.g. by citation) and the dataset is not used for any commercial purposes.
 
+THIS SOFTWARE AND ANNOTATIONS ARE PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
