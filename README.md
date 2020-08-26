@@ -40,7 +40,7 @@ We are also delighted to hear about your animal related activities! Please do vi
 
 ## Acknowledgements
 
-If you make sure use of this annotation dataset, please cite the following paper:
+If you make use of this annotation dataset, please cite the following paper:
 
 ```
 @inproceedings{biggs2020wldo,
