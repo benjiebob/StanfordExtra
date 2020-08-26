@@ -18,13 +18,17 @@ To understand how the dataset can be used, please read `demo.ipynb`.
 
 `python -m pip install "git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI"`
 
-- The `demo.ipynb` code is trivial to adapt to work with the full StanfordExtra dataset, by editing the line
+- The `demo.ipynb` code is trivial to adapt to work with the full StanfordExtra dataset, by editing the following lines to match with your Stanford Dogs download and your StanfordExtra download:
 
 ```
-img_dir = "sample_imgs" # Edit this to the location of the extracted tar file (e.g. /.../Images).
+# edit this to the location of the extracted StanfordDogs tar file (e.g. /.../Images).
+img_dir = "sample_imgs"
+
+# edit this to the location of the downloaded full dataset .json
+json_loc = "StanfordExtra_sample.json"
 ```
 
-## Download & Versioning
+## Download
 
 To download the dataset, please fill in this [Google form](https://forms.gle/sRtbicgxsWvRtRmUA).
 
