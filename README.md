@@ -25,10 +25,8 @@ img_dir = "sample_imgs" # Edit this to the location of the extracted tar file (e
 ```
 
 ## Download & Versioning
-The latest version of StanfordExtra is available for download within this repo. To view all released versions, view the [archive](https://drive.google.com/drive/folders/1MvN4hX2cdy0pMv0iUnL_UkobSYxZ0gzg?usp=sharing).
 
-- Version 1.0 [23/08/20] - Initial release for ECCV 2020, 12k instances
-- Version 0.1 [13/08/20] - Beta release, 11k instances
+To download the dataset, please fill in this [Google form](https://forms.gle/sRtbicgxsWvRtRmUA).
 
 ## Comments
 You may also find the other datasets useful for your animal work:
