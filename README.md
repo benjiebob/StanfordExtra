@@ -30,7 +30,7 @@ json_loc = "StanfordExtra_sample.json"
 
 ## Download
 
-To download the dataset, please fill in this [Google form](https://forms.gle/sRtbicgxsWvRtRmUA).
+To download the dataset, please fill in [Google form](https://forms.gle/sRtbicgxsWvRtRmUA) to receive a download link.
 
 ## Comments
 You may also find the other datasets useful for your animal work:
@@ -38,7 +38,7 @@ You may also find the other datasets useful for your animal work:
 - [RGBD-Dog Dataset](https://github.com/CAMERA-Bath/RGBD-Dog)
 - [BADJA](https://github.com/benjiebob/BADJA)
 
-We are also delighted to hear about your animal related activities! Please do visit [Ben's webpage](http://www.biggs.ai) to get in touch.
+We are also delighted to hear about your animal-related research! Please do visit [Ben's webpage](http://www.biggs.ai) if you would like to get in touch.
 
 ## Acknowledgements
 
