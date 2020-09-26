@@ -46,7 +46,7 @@ If you make use of this annotation dataset, please cite the following paper:
 
 ```
 @inproceedings{biggs2020wldo,
-  title={{W}ho left the dogs out: {3D} animal reconstruction with expectation maximization in the loop},
+  title={{W}ho left the dogs out?: {3D} animal reconstruction with expectation maximization in the loop},
   author={Biggs, Benjamin and Boyne, Oliver and Charles, James and Fitzgibbon, Andrew and Cipolla, Roberto},
   booktitle={ECCV},
   year={2020}
