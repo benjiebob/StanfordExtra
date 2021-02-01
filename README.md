@@ -30,7 +30,22 @@ json_loc = "StanfordExtra_sample.json"
 
 ## Download
 
-To download the dataset, please fill in [Google form](https://forms.gle/sRtbicgxsWvRtRmUA) to receive a download link.
+To download the latest dataset, please fill in [Google form](https://forms.gle/sRtbicgxsWvRtRmUA) to receive a download link.
+
+## Methods using StanfordExtra
+
+You may be interested in our work performing monocular 3D shape and pose reconstruction for animal subjects. If so, check out the following repositories:
+
+- [Who Left the Dogs Out?](https://github.com/benjiebob/WLDO)
+- [SMALify](https://github.com/benjiebob/SMALify)
+
+If you have a method that makes use of StanfordExtra please do [let us know](mailto:bjb56@cam.ac.uk;ob312@cam.ac.uk)! Community feedback greatly helps us justify future dataset work and we'd be delighted to add you to this list of methods.
+
+## Versioning
+Version | Date | Comment
+--- | --- | ---
+StanfordExtra_V12 | 01 Feb 2021 | Added missing validation set images, added WLDO splits, fixed compressed segmentations
+StanfordExtra_V1 | 01 Sept 2020 | Original dataset release
 
 ## Comments
 You may also find the other datasets useful for your animal work:
