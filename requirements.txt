@@ -4,5 +4,5 @@ jupyter-client==6.1.6
 jupyter-console==6.1.0
 jupyter-core==4.6.3
 matplotlib==3.3.0
-numpy==1.19.1
+numpy==1.22.0
 Pillow==7.2.0
