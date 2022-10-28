@@ -37,7 +37,7 @@ You may be interested in our work performing monocular 3D shape and pose reconst
 - [Who Left the Dogs Out?](https://github.com/benjiebob/WLDO)
 - [SMALify](https://github.com/benjiebob/SMALify)
 
-If you have a method that makes use of StanfordExtra please do [let us know](mailto:bjb56@cam.ac.uk;ob312@cam.ac.uk)! Community feedback greatly helps us justify future dataset work and we'd be delighted to add you to this list of methods.
+If you have a method that makes use of StanfordExtra please do [let us know](mailto:bjb56@cam.ac.uk;ob312@cam.ac.uk)! Community feedback greatly helps us justify future dataset work.
 
 ## Versioning
 Version | Date | Comment
