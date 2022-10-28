@@ -8,9 +8,6 @@ Dataset released with our ECCV 2020 paper: *Who Left the Dogs Out? 3D Animal Rec
 
 ![](splash.png)
 
-## Usage
-To understand how the dataset can be used, please read `demo.ipynb`.
-
 ## Download
 
 To use StanfordExtra you will require the annotations and the original images files. 
