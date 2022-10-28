@@ -11,14 +11,16 @@ Dataset released with our ECCV 2020 paper: *Who Left the Dogs Out? 3D Animal Rec
 ## Usage
 To understand how the dataset can be used, please read `demo.ipynb`.
 
+## Download
+
+To use StanfordExtra you will require the annotations and the original images files. 
+
+- Annotations are available by filling in the [Google form](https://forms.gle/sRtbicgxsWvRtRmUA).
+- Images are available as a downloadable [tar file](http://vision.stanford.edu/aditya86/ImageNetDogs/images.tar).
+
 ## Installation
-- All annotations, segmentations and metadata are sourced in a single .json file for ease of download. However, you will also need to download the [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) dataset to access the raw images. 
 
-- For segmentation decoding, install `pycocotools`
-
-`python -m pip install "git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI"`
-
-- The `demo.ipynb` code is trivial to adapt to work with the full StanfordExtra dataset, by editing the following lines to match with your Stanford Dogs download and your StanfordExtra download:
+- The `demo.ipynb` code can be adapted work with the full StanfordExtra dataset. To do this, editing the following lines to match with your Stanford Dogs download and your StanfordExtra download:
 
 ```
 # edit this to the location of the extracted StanfordDogs tar file (e.g. /.../Images).
@@ -27,10 +29,6 @@ img_dir = "sample_imgs"
 # edit this to the location of the downloaded full dataset .json
 json_loc = "StanfordExtra_sample.json"
 ```
-
-## Download
-
-To download the latest dataset, please fill in [Google form](https://forms.gle/sRtbicgxsWvRtRmUA) to receive a download link.
 
 ## Methods using StanfordExtra
 
