@@ -15,7 +15,7 @@ To understand how the dataset can be used, please read `demo.ipynb`.
 
 To use StanfordExtra you will require the annotations and the original images files. 
 
-- Annotations are available by filling in the [Google form](https://forms.gle/sRtbicgxsWvRtRmUA). You will receive an email with the download link.
+- Annotations are available by filling in the [Google form](https://forms.gle/sRtbicgxsWvRtRmUA). On completion, you will receive an email with the download link.
 - Images are available as a downloadable [tar file](http://vision.stanford.edu/aditya86/ImageNetDogs/images.tar).
 
 ## Installation
