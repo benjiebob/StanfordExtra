@@ -13,7 +13,7 @@ Dataset released with our ECCV 2020 paper: *Who Left the Dogs Out? 3D Animal Rec
 To use StanfordExtra you will require the annotations and the original images files. 
 
 - Annotations are available by filling in the [Google form](https://forms.gle/sRtbicgxsWvRtRmUA). On completion, you will receive an email with the download link.
-- Images are available as a downloadable by visiting [Stanford Dog Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/). Download the "Images" tar file.
+- Images are available as a downloadable by visiting the [Stanford Dogs](http://vision.stanford.edu/aditya86/ImageNetDogs/) webpage. Download the "Images" tar file.
 
 ## Installation
 
