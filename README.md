@@ -1,6 +1,8 @@
 # StanfordExtra
 12k labelled instances of dogs in-the-wild with 2D keypoint and segmentations. 
 
+![](https://img.shields.io/endpoint?url=https%3A%2F%2Fscript.googleusercontent.com%2Fmacros%2Fecho%3Fuser_content_key%3DRPJvo0jdmGyCdv9VtsTx5kbzdr_srL0JaMbbHthYk_KRieZ7OqRcQ2kvwH_k2Si26Tkq3mwZjTFdQkHttoS4ZOJhVZoij_MDm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnKA0og0Yjhq_xqbp3a4YMForW6GnqEiLZjJrhQ3M4K2gb8w1Mg5Fc06-2mc94ofnnGiUdRWEV7Hy7l2DoPBHuT6bDp-bH8gIOw%26lib%3DM40CCa1IJehOlB6mIKhImBXWS-NTet1fL)
+
 Dataset released with our ECCV 2020 paper: *Who Left the Dogs Out? 3D Animal Reconstruction with Expectation Maximization in the Loop*.
 
 - [Project page](https://sites.google.com/view/wldo/home)
