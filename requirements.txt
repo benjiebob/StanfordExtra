@@ -2,7 +2,7 @@ Cython==0.29.21
 jupyter==1.0.0
 jupyter-client==6.1.6
 jupyter-console==6.1.0
-jupyter-core==4.6.3
+jupyter-core==4.11.2
 matplotlib==3.3.0
 numpy==1.19.1
 Pillow==7.2.0
